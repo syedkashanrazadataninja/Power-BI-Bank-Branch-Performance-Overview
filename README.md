@@ -7,19 +7,19 @@ The project transforms raw banking data into an interactive report, helping user
 
 Key Features:
 
-Interactive KPI dashboard for branch performance monitoring
+>Interactive KPI dashboard for branch performance monitoring
 
-Analysis of Total Deposits, Total Loans, Net Profit, NPA %, and Customer Growth %
+>Analysis of Total Deposits, Total Loans, Net Profit, NPA %, and Customer Growth %
 
-Branch-wise and region-wise performance comparison
+>Branch-wise and region-wise performance comparison
 
-Monthly trends and geographic analysis using charts and maps
+>Monthly trends and geographic analysis using charts and maps
 
-Interactive slicers for Region, Branch, and Month filtering
+>Interactive slicers for Region, Branch, and Month filtering
 
-Designed a Star Schema using Fact and Dimension tables for an efficient data model
+>Designed a Star Schema using Fact and Dimension tables for an efficient data model
 
-Cleaned and transformed raw data using Power Query
+>Cleaned and transformed raw data using Power Query
 
 Tools & Skills:
 
@@ -30,4 +30,5 @@ Project Workflow:
 Raw Data → Data Cleaning → Data Transformation → Data Modeling → Calculations → Interactive Dashboard
 
 Project Screenshot:
+
 https://github.com/syedkashanrazadataninja/Power-BI-Bank-Branch-Performance-Overview/blob/main/branch%20performance%20overview.png
